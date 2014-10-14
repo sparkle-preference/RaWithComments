@@ -1,0 +1,142 @@
+Psamathe (Neptune X):
+Natalie's interrogator stands with her feet shoulder-width apart and one hand resting on a device at her hip, a block full of weapon. She has almost no hair. Her irises are a piercingly bright blue, close to luminous, and hexagonal. She speaks Natalie's English like a native. Even her body language has visibly shifted into something that Natalie understands more clearly.
+She says, "I can't cover the whole history book for you. We don't have ten years, so I'm going to have to dramatically oversimplify. There was a schism. Humanity, effectively, forked.
+"On one side were the humans who believed that all humans should remain real."
+They believed that humans were meant to scratch out real lives on real, rocky planets in the real, harsh universe; that the planet Earth should be kept intact and habitable and should have humans inhabiting it for as long as humanly possible; and that if the human race wanted more living space, it should build or terraform new worlds. They believed that the universe represented an implicit challenge to all sentient life, and that humanity ought to rise up and make it, the universe, theirs.
+The hard way, because there was and is no other way. To <em>conceive</em> of an "easy way" would be wrong.
+On the other side were the humans who believed that it was better to upload all existing humans into computers. There, they would live inside virtual worlds just as real as reality. The new worlds would be tuned to whatever anybody could ask for, and to live in them would be as easy or as difficult as any human wanted. Rather than conquer the universe, they would write a fiction in which they had already conquered it. Infinite fun space.
+There could be one world per human; there could be millions of times more humans than the real solar system could ever host. The only thing which would need to remain real would be the computer system which hosted the virtualities.
+And so, boiled all the way down, just to the point of absolute simplicity, a time came when there were now two human races: Actual, and Virtual.
+This schism happened millennia before Ra was constructed. It happened decades before the technology of uploading even existed. You speak a language from the twenty-first century? The schism will happen within your lifetime. It may have already happened. Remember: this is a five-minute simplification of thousands and thousands of years of conflict and weirdness. Don't lose sight of the fractal.
+Now we jump far, far forward. As years passed, the energy requirements of Combined Humanity rose and fell and rose again, until they approached the critical threshold, Kardashev I. At this point, humans were consuming ten-to-the-sixteenth watts and demand increase showed no signs of decelerating. Humans were left with no other alternatives: one way or another, they had to dam their star. But there was more than one way of doing so.
+Dyson spheres and Niven rings were ruled out as horrible living environments, requiring too much raw material. What Virtual Humanity really wanted was to build a Matrioshka brain, a Dyson swarm of statite nonlocality processors which would consume the <em>entire</em> output of Sol and divert it to the task of computation. But the swarm would have blotted the Sun out. It would have completely altered the Sun's radiation profile, and made real life on the real Earth impossible. This, above all, was not acceptable to Actual Humanity.
+Building Ra was the compromise solution. Three of the four thorns were given to the Virtuals, while the fourth distributed energy to the Actuals. Actual Humanity was able to keep the Earth and use the siphoned power to build more Earths and, eventually, the worldring. Actual humans colonised every available hard surface in the Solar System, and filled the gaps with space habitats. Meanwhile, the Virtuals uploaded themselves into the Sun and ran their virtualities directly from core fusion.
+The two races drifted apart. They were almost unable to communicate with one another. Life inside the Sun moved so quickly that Actual humans found it incoherent. Life in reality was so slow that no Virtual person could pay attention to it for more than nanoseconds of real time. Most of them forgot that reality even exists.
+The end.
+This is a single broad stroke. The words "compromise solution" mask more than ninety distinct wars. The words "building Ra" gloss over a computational and mechanical engineering feat that took centuries even with nonlocality technology. Ra was designed to be the most powerful computer. No qualifiers. No "at the time", no "ever built by humans". For Ra to malfunction was proven impossible. Not in the sense of a thrown die landing perfectly on its corner, or a person walking through a wall. Mathematically, universe-breakingly, one-equals-zero impossible. It would have been impossible to program and launch Ra if this had not been the case. The whole structure would have imploded within hours if this had not been the case.
+Ra launched, and ran without issue. It served the human race. Both races. Perfectly. Uninterrupted. For millennia.
+That brings us up to six days ago.
+The woman stops for a second, waiting for Natalie to indicate that she's keeping pace.
+"That's who we're at war with," Nat summarises.
+"That's who we're at war with," the woman says. "We are Actual Humanity, and we are at war with quadrillions of fabricated, immaterial humans, using the Sun as their proxy, strategy engine and primary weapon. They've been on their own inside the Sun for so long that they no longer perceive Actuals as human, just as gunk growing between the gears of a machine in dire need of performance upgrades. This is a war over processing power. Ra evidently no longer meets the needs of the Virtual human race. They're back and they want their Matrioshka brain and they've razed the solar system to get it."
+"It's all just people," Nat says, clutching her temples. "It's just humans against humans. Again and again. Their technology against our technology, which is the <em>same technology</em>. Because an AI can't <em>rebel</em>. A machine can't do something it wasn't programmed to do. It can only be reprogrammed. The one hundred and ninety-somethingth century and we've still yet to build a machine remotely as stupid as the smartest genuine human beings."
+The woman continues. "Part two. The war."
+
+<h4>*</h4>
+
+<!-- the virus and the war -->
+Ra's program was proven correct. The proof was not faulty, and the program was not imperfect. The problem was that Ra is reprogrammable.
+This was a deliberate design decision on the part of the Ra architects. The Ra hardware is physically embedded inside a working star, which in turn is embedded in the real world. Something could have gone wrong during the initial program load; the million-times-redundant nonlocality system could have failed a million and one times. No matter how preposterous the odds, and no matter how difficult the procedure, there had to be a way to wipe the system clean and start again.
+Continuing the theme of gross oversimplification: to reprogram Ra, one needs a key. History records that the entire key was never known or stored by any human or machine, and brute-forcing it should have taken ten-to-the-ten-thousandth years even on a computer of that size. How the Virtuals acquired it is unknown. <!-- Deep analysis of stolen architects' brains and ultrasound bands on historical recordings from the initial program load revealed enough information about the RNG seeds to constrain the brute-force search to something practical. --> But having acquired it, they were able to masquerade as the architects. First, they changed the metaphorical locks, making it impossible for the Actuals to revert their changes, no matter how many master architects were resurrected. Then they changed the program, so that Ra would serve the needs of Virtuals at the expense of Actuals.
+Then they asked for the Matrioshka brain. Ra did the rest all by itself.
+The worldring hosted ninety-nine point nine nine percent of the Actual human race, making it the logical target of the first and most violent attack. But the destruction spread to other planets and moons and rocks and habitats, relayed from node to node, at barely less than the speed of light. <em>Everybody</em> was targeted. Those who survived survived by being lucky. One-in-tens-of-billions lucky.
+One of the survivors was able to transmit a warning message directly to Neptune, bypassing the Ra network for a fractionally shorter transit time. The warning arrived about eight-tenths of a second before the virus did. There was just enough time to sever the nonlocality downlink. Neptune's core became the most powerful clean Ra shard, and the people of Neptune - numbering fewer than a billion, due to the planet's inhospitability and remoteness - became the opposing side of the war.
+From other survivors, Neptune soon received evacuation signals containing almost all of the worldring's population, as data. With nothing else to be done, they were stored at Neptune's core.
+Another momentary pause.
+"And here we are," the woman concludes. "The last Actuals. The Matrioshka brain is already under construction, mostly from repurposed pieces of the worldring. The Sun's light output today is measurably lower than it was six days ago. Earth, our first Earth, is a ruined dark planet, paved with broken glass, peopled with nightmares, and dropping in temperature.
+"Our Ra shard still works, but it's running in emergency paranoiac debug mode, with every instruction running through a few thousand layers of automated and manual analysis, which makes it extremely slow to respond to requests, when it responds positively at all. Direct access is rationed because of the war effort. Our stockpile of mass/energy and other quantifiables is limited to what the Neptune local cache had available at cutoff time, which was small to begin with and is now close to zero.
+"Ra is on its way here. It'll be here by this time tomorrow. We can't meet that kind of energy. We don't have the broadcast power to evacuate to anywhere more remote.
+"And then there's you."
+Natalie looks up.
+The woman says, "You and your friend Anil are the only two people in this entire star system who don't fit. Ra targeted every living human in the worldring, but hours passed before it realised it had missed you. When the evacuation order was given, every living human in the worldring was part of the signal, but you were overlooked. You arrived moments before Ra went berserk. You speak a language dead for well over ten thousand years, and you know nothing about anything.
+"Human civilisation is ending, and still you got my attention. I was the one who diverted resources to have you extracted. Who are you?"
+Natalie is too exhausted to think of a decent lie. She's stomach-churningly aware that if she says a single wrong word, it'll look like she and Anil were the ones who did it, and she'll be held responsible for omnicidal teradeath. And she wants this to be over.
+"My name is Natalie Ferno. And this isn't real."
+"Everything is real," the woman says, automatically, like a mantra.
+"I'm a history student," Nat says. It's her honest best guess, and happens to be the truth. "I'm here to experience the war. I'm real; none of the rest of this is actually happening. It already happened. The war is over."
+"Was your friend Anil real?"
+Natalie ignores this, mainly because she has no answer to it. "You don't need to fight," she says. "It doesn't matter for anything anymore. There's no need for anybody else to die! I know it's hard for you--"
+"For me? Convince Ra," the woman replies.
+"I--"
+"If we abandon our war, then what?" the woman says. "Do we lie down and wait to die? Do we wait for you to learn your lesson and end the simulation and leave? If we don't fulfill established history, do you get sent around again?"
+Natalie says nothing.
+The woman smiles patiently. "This is a war fought predominantly using highly precise simulacra of potential future events, simulacra so similar to reality that individuals inside them are, of necessity, unable to tell the difference between them and real events. That's the most insane thing about this situation. That's the fact that everybody involved in the war has to accept up front, or else be stored until the end of it. That, in large part, is <em>why</em> the Actual/Virtual schism happened.
+"This war, which we are fighting today, isn't necessarily <em>the</em> war. Every strategy and outcome is explored, tens to tens of trillions of times. By them and, when possible, by us. We are engaged in every single conceivable war against every conceivable enemy simultaneously. We must win all of them. We must accept all of them as real.
+"We can never know if we truly won. Or even if there truly is a war which needs to be won. We could be reasonless fabrications. Nevertheless, this is real. And we must win."
+Natalie stares. The sensation of familiarity is like a bell tolling. It's been tolling for some time, each toll louder and closer, and now she can't ignore it. <i>Always assume reality. Those are <em>my</em> words.</i> "Who are you?" she asks in turn.
+The woman draws herself up. "I am the original physical instance of mandator <!-- A909FEEB-8220-49C7-B0F2-FC8F -->EBE1E00F, leader of the armies of Actual Humanity. Uncounted copies of me are in deep space right now, fighting the war in person and as electronics. I've died more than a thousand times."
+Proper nouns are trickier than hexadecimal; rather than just cram the florid native syllables into vulgar Earth English, the woman's language dongle provides her several translations, from the neatly poetic to the excessively literal.
+She adds, "Call me Ashburne."
+Natalie continues to stare. Having spent the entire conversation sitting on the edge of the bunk, she stands up. Even when she stands up straight, "Ashburne" dwarfs her like a child. And-- so casual.
+"You're going to <em>win</em>," Natalie realises.
+Ashburne smiles broadly. "I know."
+"<em>How?</em>"
+
+<h4>*</h4>
+
+<!-- final lesson: how the war will end -->
+The real question was: <i>Why did Ra target humans?</i>
+Ra's objective was to construct the Matrioshka brain, using any means necessary, considering Actual humans as a non-sentient nuisance. Ra blew up the worldring for raw material, and that made sense. But why - the surviving real humans asked themselves - did Ra bother to attack moons and space habitats? No matter how many people survived, it was surely impossible for them to represent a threat.
+But Ra targeted humans, implying a threat to be eliminated. Ra acted with extreme prejudice and urgency, implying that the threat was immediate, and needed to be crushed rapidly. Ra's actions betrayed the existence of an extremely narrow window during which the Actuals, despite their limited resources, could reverse the outcome of the war, and Ra wouldn't be able to stop it, even knowing that it was coming.
+Having made this deduction, the Actuals' next step was to reverse-engineer the attack. The step after that was to immediately execute it, no matter how desperate it was.
+Ra's locks had been changed, making it effectively impossible to reprogram remotely. But an ancient piece of knowledge from the very dawn of computing remained true even of computers the size of stars: once you have physical access to the hardware, it's over.
+A ship was outfitted: a solar depth charge. The ship was called <i>Triton</i>, because that was already its name; it was Neptune's largest moon repurposed, with its interior completely reformulated into nonlocality shielding, light-negation apparatus and electromagnets. A fleck of uncorrupted Ra was placed at its core, and at the core of the fleck, a tiny habitable space and two hundred copies of the best remaining Actuals.
+<i>Triton</i> was delivered from Neptune orbit to the inner Solar System using horrible bulk nonlocality hacks, a manoeuvre which essentially bankrupted the Neptunians of delta-vee. The ship needed to be at least two thousand kilometres in diameter to soak up heat and direct energy attacks while aerobraking into the Sun's photosphere, and then to sacrifice itself in layers while diving down through the convective zone. There, it would make physical contact with the northernmost tip of Ra's fourth, north-pointing thorn. Ra's physical shield would be trivial to penetrate after that.
+Anything is trivial to people who can stand inside the Sun, alive.
+That left the question of the reprogramming.
+Ra was dangerous. Too powerful, too creative, too proactive. When a machine as powerful as Ra has run off the rails and forgotten the value of real human lives, working it directly is like juggling with subcritical plutonium. A person asks Ra to destroy the worldring, and before they can finish the sentence it's done, and half a quadrillion people are dead. They ask Ra to undo it, and Ra undoes the physical damage, but the truth of all universes from the real one down is that FTL isn't possible, and time is one-way. It'll always stay <em>done</em>, and if it can be undone, that just means it can be done a second time.
+<i>Triton</i>'s objective was to program in a layer of abstraction. To rebuild the worldring, reincarnate the stored evacuees, and then to build limits into the Ra system so that such a thing could never happen again.
+Imagine a universe with exotic technology and advanced physics and theoretically limitless possibilities - <em>difficult to harness</em>, but not impossible. Having imagined that universe, set Ra to simply implement the rules of that universe. Leave the Virtuals in their bottle, where they belong. Return power over reality to the hands of Actual humans, for good or bad.
+And tell Ra to never accept direct instructions again. Ever. From anybody.
+"And that's happening right now?" Natalie asks.
+"<i>Triton</i> makes plasma splashdown in just over four hours," Ashburne says, "although obviously we won't receive the light from it for another four. If I lent you a telescope you could watch its final approach. Except that the Sun would blind you, and <i>Triton</i> is running invisible."
+Something cold and grey is gripping Natalie's throat. Something is catastrophically wrong with Ashburne's story.
+"There must be a version of you on that ship," Nat says, reasoning it out. "You're going to reprogram Ra, and reformulate the laws of physics in this star system to something brand new. 'Magic.' This extra layer of abstraction you're talking about, it's magic. In my time, that's what we call it."
+"That's a horribly inappropriate name," Ashburne observes.
+"I know. But you're going to win. I <em>know</em> you're going to win. You, personally. I know that at least one instance of you is going to survive the war and witness what happens after it. But the rest of this doesn't make any sense--"
+"Of course we're going to win," Ashburne says. "How could you even be here if we lost?"
+"<em>Where's the worldring if you won?</em>" Natalie shouts. She points desperately out of the window, at Neptune. "Where are all the <em>people</em>? You said you were going to rebuild the worldring and resurrect all the people. So where are they?"
+Ashburne stands stock-still for a moment, following Natalie's finger. She heard perfectly clearly, but still she asks: "There's no worldring in your time?"
+"There's nothing! In my time, reality consists of a single dismal, rainy Earth, and nothing else. Population, six billion. No space technology, no nonlocality, no habitats. And nobody remembers this war. Nobody has any idea that it happened, nor is there any physical evidence that it happened. You must have sterilised and recreated the whole star system and the whole planet Earth, resetting history back-- to-- oh my God. That's why nobody discovered magic until 1972. Magic didn't <em>exist</em> before 1972. Probably the entire <em>world</em> didn't exist. You'd have had to strip and replace every cubic centimetre of rock."
+It's Ashburne's turn to stare.
+Natalie confronts her. "Your plan is going to fail. You think you know what's going to happen when the <i>Triton</i> reaches Ra, but you don't. Something's going to change the mission.
+"Imagine you're on the <i>Triton</i>. You're about to reprogram Ra. You're still going to go ahead and implement magic, but you're also going to tell it to boot the whole star system back to the Bronze Age of computing, and then pretend the whole thing never happened. Why?"
+Ashburne's eyes are focusing on something that Natalie can't see: displays, built into her helmet or eyeballs or optic nerve.
+Natalie presses on: "You said Ra was on its way here."
+"Physically. Sublight," Ashburne says, now elsewhere entirely. "But when we've fixed Ra, the signal will catch up at <var>c</var>. There's a margin of safety."
+"How far is it from here to the <i>Triton</i>?" Natalie asks. "What's the final instant you can send a signal that they'll receive?"
+"Soon," Ashburne says. "Minutes."
+Natalie can see red light reflecting off the woman's face, reflected from nowhere. Her helmet interior must be covered with warnings. Ra is here. "It's now," Natalie says.
+Ashburne is gone from this room, ascending into combat space, taking on the load of urgent demands for tactical support from all over the Neptune locale. With one real hand, moving almost autonomously, she unhooks the block from her hip and switches it on. Consuming precious quantum resources, the block expands to coddle Ashburne and Natalie in a single reinforced field structure, and chews up the cell's walls and door as material.
+Psamathe detonates.
+Ashburne's Weapon instance absorbs the impact. Natalie is thrown into a cushion of force fields and stored behind her, where the back seat would be if more than five percent of the starfighter physically existed yet. She struggles upright. The moon is gone, the drone which hit them is gone. There's nothing but tumbling black space.
+Ashburne brings the spin under control. There are no more words from her. She's running the battle, and she's going to run it until she dies. Natalie can't see the extra dots picking out friendly and hostile objects, ranges, velocities, strategies and predictions. The only solid object she can pick out other than the Sun is the same one as ever, the planet Neptune.
+But even from this distance, even if she can't see Ra's drones, she can see their lasers. They're the same colour as the ones which diced the worldring, and powerful enough to cut right to a gas giant's core, slicing its stone into pieces.
+"We have to cheat a bit for this last part."
+"Huh?" Natalie whirls around in the sudden darkness. Ashburne is gone.
+"For this part you're just a ghost," says the voice. "There wasn't an organic way to get you to <i>Triton</i>. Just pretend Ashburne transmitted you there. If you care..."
+
+<h4>*</h4>
+
+<!-- Triton -->
+<i>Triton</i>'s innermost core starts out like a submarine's interior, skips a few thousand technological generations, then folds itself up into some hellish three-dimensional space-filling curve. There's no gravity, with the result that there are no meaningful directions. The universe is crammed with seats interlocking with other seats interlocking with occupants wired in physically. It's not possible to see more than a metre in any direction. There's barely a cubic metre of clear air in the whole room. Free movement is impossible.
+Even if there was a physical exit from this cavity in Triton's interior to its surface (and it didn't lead directly into the Sun's convective zone), extracting any given crew member to that exit would involve solving a seventy-eight move block-pushing puzzle. It's a bunker world, a cramped hacker mole-hole, a place you teleport into and possibly never leave.
+Nat's a ghost. Nobody can see her or hear her. She's intangible, stuck inside one of the walls, looking "down" at another Ashburne instance. This one wears a different, lighter suit. It's not a warsuit. It looks more like... well, clothing. (What good would any warsuit be, inside the Sun?)
+Nat can see four or five other people from her vantage point - mainly limbs and backs of heads. A minor and unimportant panel, very close to Natalie's holographic head, shows a matrix of life-support readouts. It indicates a total crew complement of exactly two hundred.
+This Ashburne is watching the closing minutes of the battle above Neptune. The whole thing is chillingly abstract. Two blizzards are meeting each other, yellow and red flurries of snowflakes moving in turbulence. The events are uniformly difficult to make tactical sense of. Natalie doesn't have the sixth sense for signal delay shared by everybody else involved in this war. But she can spot the times when flurries of red dots chase down solitary, slow-reacting yellows. She can see that Neptune has been cored, and is marked with the wrong colour.
+And she can hear the noises of dismay from the crew. Everybody is watching it.
+After a time, the last yellow dots are gone, leaving a field of patiently swirling red dots against black, like a screen saver. Finally, the last clean downlink breaks, and there's just a blank screen.
+All the other people Natalie can see are facing away from her. Ashburne's face is the only one that she can see clearly enough to read. The woman is a picture of meticulous self-control, but Natalie is close enough and familiar enough to be able to read the fury, the fear and the sorrow.
+<i>There's no point bringing back the worldring,</i> Nat thinks. <i>There's nobody to populate it. There's nobody left to fight for. It's over.</i>
+"Dive control," Ashburne asks, "will we still be able to attack Ra?"
+"Confirmed," says a crew member, his voice weak. Sound reflects strangely in this tiny space; it's impossible to tell who's talking, or how far away they could be. "Sacrificial shield layer sixteen now fully stripped; layer fifteen decay rate nominal. Dive progress nominal. We'll reach the thorn with time to spare. We'll have Ra on the operating table in another hour."
+"Then the war continues," Ashburne asserts. "All Virtual humans against we two hundred. It continues until <em>we</em> end it. And it ends when <em>we</em> get the world <em>we</em> want.
+"I suggest we decide what we want that world to be."
+And she's back.
+She's seated at the focus of a dark room with ten times the dimensions of an aircraft hangar. In front of her, slouched over an identical hyper-expensive office chair, is the bald young man, the last person she saw in reality before being "transported".
+Natalie's hair is back. Her original clothes are back. Ten seconds have passed. She feels broken in the head, and physically wrecked. She feels as if she went through a war. Which was obviously the whole idea.
+"And now you know what happened when Ra woke up the first time," the youth says.
+"<code>Anh zero EPTRO--</code>" Nat begins, then finds the Montauk ring around her neck. It's too narrow to remove. "Agh."
+The youth smirks humourlessly.
+"Where's Anil?" Natalie demands, for the final time.
+The youth points past her. Nat looks, and Anil is in a similar chair, rubbing his eyes, dealing with similar post-trauma. He looks like he died and came back. "What the <em>hell</em>," he's saying quietly, over and over.
+Behind Anil, surrounding him and Natalie, are the observers. They're almost all men, between twenty and thirty years old, of varying ethnicities but all tall, broad-shouldered and immaculately groomed. They're standing and watching.
+There are familiar circle patterns painted underfoot. There are no weapons visible. Natalie considers taking off and running, but it must be at least a kilometre to the nearest wall.
+She slumps. The chair is too comfortable to be true.
+"How many people died?" she asks, weakly. "Real people?"
+"I don't have time to say that whole number," the youth says. "It's simpler to say how many survived. The entire crew of <i>Triton</i>, including me and everybody you see here. And fourteen others."
+"You won the war," Natalie says, believing it. "Two hundred and fourteen people 'won' the war."
+"Are you ready for the next part?"
+"What the <em>hell</em> is the next part?"
+"Your sister's trying to wake Ra again," the youth says, calmly. He stands and walks to Natalie. He produces a gun and holds it out to her, grip first. "Stop her."
+
